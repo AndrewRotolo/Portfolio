@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(145, 145, 145);
+}
+
+#main-header {
+    text-align: center;
+    background-color: rgb(122, 207, 179);
+    border-style: solid;
+}
+
+#pfp {
+position: static;
+right: 500px;
+}
+
+#projects {
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    color: white;
+    border-style:groove;
+    border-color: black;
+    text-shadow: 0 0 2px #000000;
+}
+
+#foot {
+    text-align: center;
+    background-color: rgb(122, 207, 179);
+    border-style: solid;
+    
+}
